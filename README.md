@@ -1,8 +1,8 @@
 Tensorflow-v1.11.0-rc1 - CUDA 9.2 - cuDNN 7.1.4
 =================
 
-* Compiled from source to **only** support GPU usage
-* No CPU support is enabled:
+* Compiled from source to **only** support GPU usage.
+* No CPU support is enabled.
 
 ## Installation
 
