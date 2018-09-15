@@ -4,6 +4,9 @@ Tensorflow-v1.11.0-rc1 - CUDA 9.2 - cuDNN 7.1.4
 * Compiled from source to **only** support GPU usage.
 * No CPU support is enabled.
 
+## Link
+[Tensorflow-v1.11.0-rc1] (https://drive.google.com/file/d/1TebpkZTAd-vd1f2TAmpAKvY0_v2irKzb/view?usp=sharing)
+
 ## Installation
 
 `pip install tensorflow-1.11.0rc1-cp36-cp36m-linux_x86_64.whl`
