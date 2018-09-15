@@ -5,7 +5,7 @@ Tensorflow-v1.11.0-rc1 - CUDA 9.2 - cuDNN 7.1.4
 * No CPU support is enabled.
 
 ## Link
-[Tensorflow-v1.11.0-rc1] (https://drive.google.com/file/d/1TebpkZTAd-vd1f2TAmpAKvY0_v2irKzb/view?usp=sharing)
+[Tensorflow-v1.11.0-rc1](https://drive.google.com/file/d/1TebpkZTAd-vd1f2TAmpAKvY0_v2irKzb/view?usp=sharing)
 
 ## Installation
 
