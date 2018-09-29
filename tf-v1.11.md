@@ -1,10 +1,10 @@
-Tensorflow GPU version wheel files built from source
+Tensorflow-v1.11.0 - CUDA 9.2 - cuDNN 7.1.4
 =================
 
 * Compiled from source to support GPU usage.
 
 ## Link
-[Tensorflow-v1.11.0-rc1](https://drive.google.com/file/d/1TebpkZTAd-vd1f2TAmpAKvY0_v2irKzb/view?usp=sharing)
+[Tensorflow-v1.11.0](https://drive.google.com/file/d/1GYEGX42g4wL-qKo0Yc434vgvfpHUx6Rl/view?usp=sharing)
 
 ## Installation
 
@@ -17,7 +17,7 @@ Tensorflow GPU version wheel files built from source
 | Distro   | `Ubuntu 16.04.10`   |
 | Kernel   |  `4.15.0-34-generic x86_64`   |
 | GPU / Compute Capcity     |  `Nvidia GeForce GTX 1060 TI` - `6.1`  |
-| Tensorflow   |  `Check the markdown files`   |
+| Tensorflow   |  `v1.11.0`   |
 | CUDA   |  `9.2.148`   |
 | cuDNN   |  `7.1.4`   |
 | NCCL   |  `2.2.13`   |
@@ -25,3 +25,4 @@ Tensorflow GPU version wheel files built from source
 | Python   |  `3.6.5`   |
 | Bazel   |  `0.17.1`   |
 | Tested against NVIDIA Driver Runtime   |  `396.54`   |
+ 
